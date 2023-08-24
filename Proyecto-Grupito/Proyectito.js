@@ -1,3 +1,4 @@
 let a = 2;
 let b = 3;
-return a + b;
+let hola = "hola";
+return a + b + hola;
